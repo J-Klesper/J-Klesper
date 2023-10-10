@@ -19,7 +19,9 @@ unlock and the myriad possibilities they unlock across various facets of life.
 ## What is my focus right now?
 At the moment I am broadening my horizon regarding Python, especially web applications, different methods/tools to 
 create dashboards and dipping my toes into machine learning. Learning is satisfying for me, so I will continuously 
-acquire new skills and deepen my knowledge. 
+acquire new skills and deepen my knowledge.
+<br>
+<br>
 Do you have something you want me to learn? Go ahead, tell me! I am always open to new interesting topics! :smile:
 
 
