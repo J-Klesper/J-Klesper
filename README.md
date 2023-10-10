@@ -23,8 +23,34 @@ acquire new skills and deepen my knowledge.
 <br>
 <br>
 Do you have something you want me to learn? Go ahead, tell me! I am always open to new interesting topics! :smile:
+<br>
 
+---
+<br>
 
+## Hallo :smile:
+Mein Name ist Jana und ich habe mein Zuhause im Bereich der Daten Analyse gefunden. Ich verfolge mit starkem Interesse
+die technologischen Entwicklungen und die Möglichkeiten, welche sich dadurch im Alltag eröffnen. Mein Beruf erlaubt mir
+dieses Interesse mit meinen Erfahrungen aus dem Bereich Digital Art zu vereinen, um aus Daten geschöpfte Erkenntnisse 
+verständlich und ansprechend zu präsentieren.
+
+## Fähigkeiten
+- Python
+  - Streamlit, Dash
+  - Machine Learning (scitkit-learn)
+  - REST API
+- SQL
+- DAX
+
+## Was ist mein aktuelles Ziel?
+Im Moment vertiefe ich mein Wissen über die Arbeit mit Python, speziell Webapplikationen, unterschiedliche Methoden/Werkzeuge
+um Dashboards zu kreieren und Machine Learning.
+Neues zu lernen ist eine Leidenschaft, weshalb ich kontinuierlich neue Fähigkeiten erwerben werde und Wege suche, um mein
+bereits vorhandenes Wissen zu vertiefen.
+<br>
+<br>
+Sie haben etwas, dass ich lernen kann? Immer heraus damit! Ich bin stehts offen für neue Herausforderungen und interessante
+Themen aus vielen Bereichen! :smile:
 <!--
 **J-Klesper/J-Klesper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
