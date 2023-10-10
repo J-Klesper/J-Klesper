@@ -1,4 +1,4 @@
-![my_gitub_banner](sci_fi_world_2.png)
+![my_gitub_banner](github_banner.png)
 
 ## Hello there! :smile:
 I'm Jana and I'm thrilled to have found my niche in the world of data analysis. It brings me great joy to combine 
