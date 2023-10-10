@@ -5,7 +5,7 @@ I'm Jana and I'm thrilled to have found my niche in the world of data analysis. 
 my passion for data and art in my career, where I strive to find solutions to complex problems and present them in an 
 engaging and understandable way. 
 As a dedicated data analyst, I maintain a deep curiosity about technological advances and the myriad possibilities they 
-unlock and the myriad possibilities they unlock across various facets of life.
+unlock across various facets of life.
 
 ## Skills
 
